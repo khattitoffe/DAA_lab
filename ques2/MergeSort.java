@@ -28,7 +28,7 @@ class MergeSort{
     
     public void merge(int[] arr,int[] left,int[] right)
     {
-        int i=0,j=0,k=0;//i keep track of left, j keep track of right and k of arr
+        int i=0,j=0,k=0;
         
         while (i < left.length && j < right.length) {
             if (left[i] <= right[j]) {
