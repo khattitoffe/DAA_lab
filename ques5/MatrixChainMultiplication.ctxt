@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MatrixChainMultiplication
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p
+comment2.target=int\ matrixChainOrder(int[])
+comment3.params=s\ i\ j
+comment3.target=void\ printOptimalParenthesis(int[][],\ int,\ int)
+numComments=4
