@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BranchAndBoundKnapsack
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=u\ weights\ values\ n\ W
+comment2.target=float\ bound(BranchAndBoundKnapsack.Node,\ int[],\ int[],\ int,\ int)
+comment3.params=weights\ values\ W\ n
+comment3.target=int\ knapsack(int[],\ int[],\ int,\ int)
+numComments=4
