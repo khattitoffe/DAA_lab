@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=strassenMultiplication
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=A\ B
+comment2.target=void\ normalMultiplication(int[][],\ int[][])
+comment3.params=A\ B
+comment3.target=void\ strassen(int[][],\ int[][])
+comment4.params=A\ B
+comment4.target=int[][]\ multiply(int[][],\ int[][])
+comment5.params=A\ B
+comment5.target=int[][]\ add(int[][],\ int[][])
+comment6.params=A\ B
+comment6.target=int[][]\ subtract(int[][],\ int[][])
+comment7.params=matrix
+comment7.target=void\ print(int[][])
+numComments=8
