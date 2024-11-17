@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=activitySelection
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=start\ end
+comment2.target=void\ solve(int[],\ int[])
+comment3.params=array\ end
+comment3.target=void\ sort(int[],\ int[])
+comment4.params=array
+comment4.target=void\ print(int[])
+numComments=5
