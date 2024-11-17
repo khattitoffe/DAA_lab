@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=KMP
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=pattern
+comment2.target=int[]\ computeLPSArray(java.lang.String)
+comment3.params=text\ pattern
+comment3.target=void\ kmpSearch(java.lang.String,\ java.lang.String)
+numComments=4
