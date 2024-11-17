@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DynamicProgrammingKnapsack
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=weight\ value\ W\ n
+comment2.target=int\ knapsack(int[],\ int[],\ int,\ int)
+numComments=3
